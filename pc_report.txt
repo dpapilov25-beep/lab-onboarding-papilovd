@@ -1,0 +1,408 @@
+============================================== 
+        ДИАГНОСТИКА КОМПЬЮТЕРА 
+============================================== 
+ 
+--- ОПЕРАЦИОННАЯ СИСТЕМА --- 
+Caption=�������� Windows 10 Pro
+Version=10.0.17134
+--- ПРОЦЕССОР --- 
+Name=Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz
+--- ОПЕРАТИВНАЯ ПАМЯТЬ --- 
+Всего памяти: 7 ГБ 
+Свободно памяти: 2 ГБ 
+--- ДИСК C --- 
+Всего на диске: 1 ГБ 
+Свободно на диске: 0 ГБ 
+--- УСТАНОВЛЕННЫЕ ПРОГРАММЫ --- 
+    DisplayName    REG_SZ    7-Zip 15.05 beta x64
+    DisplayName    REG_SZ    AutoHotkey
+    DisplayName    REG_SZ    Avast Free Antivirus
+    DisplayName    REG_SZ    Denuvo Anti-Cheat
+    DisplayName    REG_SZ    RAV Endpoint Protection
+    DisplayName    REG_SZ    Riot Vanguard
+    DisplayName    REG_SZ    Stumble Guys
+    DisplayName    REG_SZ    OBS Studio
+    DisplayName    REG_SZ    Backseat Drivers Demo
+    DisplayName    REG_SZ    Human: Fall Flat
+    DisplayName    REG_SZ    Spacewar
+    DisplayName    REG_SZ    Ball 3D: Soccer Online
+    DisplayName    REG_SZ    StingRay 1.0
+    DisplayName    REG_SZ    WinRAR 5.30.6.0 (64-разрядная)
+    DisplayName    REG_SZ    AMD Settings
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization SV
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization ES
+    DisplayName    REG_SZ    Update for Windows 10 for x64-based Systems (KB4480730)
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization KO
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization JA
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization DA
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization TR
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization DA
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization FI
+    DisplayName    REG_SZ    Python 3.12.1 pip Bootstrap (64-bit)
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization DA
+    DisplayName    REG_SZ    Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization HU
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization DE
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization FI
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization FR
+    DisplayName    REG_SZ    7-Zip 22.00 (x64 edition)
+    DisplayName    REG_SZ    Microsoft Visual Studio Team Foundation Server 2017 Update 9 Office Integration Language Pack (x64) - ENU
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization TH
+    DisplayName    REG_SZ    Microsoft DVD App Installation for Microsoft.WindowsDVDPlayer_2019.6.13291.0_neutral_~_8wekyb3d8bbwe (x64)
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization IT
+    DisplayName    REG_SZ    Java 8 Update 31 (64-bit)
+    DisplayName    REG_SZ    Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.0 False
+    DisplayName    REG_SZ    Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.42.34438
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization DA
+    DisplayName    REG_SZ    Microsoft Visual Studio Team Foundation Server 2017 Update 9 Office Integration (x64)
+    DisplayName    REG_SZ    Microsoft Visual C++ 2008 Redistributable - x64 9.0.21022 False
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization CHS
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization TH
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization CS
+    DisplayName    REG_SZ    AMD Fuel
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization SV
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization FR
+    DisplayName    REG_SZ    Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization NL
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization NL
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization BR
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization ES
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization IT
+    DisplayName    REG_SZ    Python 3.12.1 Executables (64-bit)
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization CHS
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization SV
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization RU
+    DisplayName    REG_SZ    Python 3.12.1 Standard Library (64-bit)
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization FR
+    DisplayName    REG_SZ    Microsoft .NET Framework 4.5.2 Hotfix Rollup (KB3063911)
+    DisplayName    REG_SZ    Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148 False
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization DA
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization RU
+    DisplayName    REG_SZ    Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729 False
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization BR
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization NO
+    DisplayName    REG_SZ    Windows Setup Remediations (x64) (KB4023057)
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization BR
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization NO
+    DisplayName    REG_SZ    Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization KO
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization ES
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization CS
+    DisplayName    REG_SZ    Python 3.12.1 Documentation (64-bit)
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization TH
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization DE
+    DisplayName    REG_SZ    Microsoft Visual C++ 2005 Redistributable - x64 8.0.59192 False
+    DisplayName    REG_SZ    Microsoft Visual C++ 2005 Redistributable - x64 8.0.50727.42 False
+    DisplayName    REG_SZ    Microsoft Visual Studio Installer
+    DisplayName    REG_SZ    UpdateAssistant
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization EL
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization TH
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization KO
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization CHT
+    DisplayName    REG_SZ    DiagnosticsHub_CollectionService
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization EL
+    DisplayName    REG_SZ    Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17 False
+    DisplayName    REG_SZ    Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.5570 False
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization TR
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization CS
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization IT
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization ES
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization TR
+    DisplayName    REG_SZ    Python 3.12.1 Development Libraries (64-bit)
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization TR
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization CHS
+    DisplayName    REG_SZ    Update for Windows 10 for x64-based Systems (KB4023057)
+    DisplayName    REG_SZ    Microsoft Office Office 64-bit Components 2007
+    DisplayName    REG_SZ    Microsoft Office Shared 64-bit MUI (Russian) 2007
+    DisplayName    REG_SZ    Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4048 False
+    DisplayName    REG_SZ    Python 3.12.1 Tcl/Tk Support (64-bit)
+    DisplayName    REG_SZ    Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization NL
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization ES
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization CHT
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization PL
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization RU
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization CS
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization BR
+    DisplayName    REG_SZ    Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.50727
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization FI
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization FI
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization NL
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization TH
+    DisplayName    REG_SZ    Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization SV
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization DE
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization IT
+    DisplayName    REG_SZ    Canon MF3010
+    DisplayName    REG_SZ    Microsoft Visual C++ 2005 Redistributable - x64 8.0.51011 False
+    DisplayName    REG_SZ    Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.50727
+    DisplayName    REG_SZ    Python 3.12.1 Core Interpreter (64-bit)
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization FI
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization CHT
+    DisplayName    REG_SZ    Microsoft Visual C++ 2005 Redistributable - x64 8.0.61000
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization TR
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization CHT
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization HU
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization FR
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization CHT
+    DisplayName    REG_SZ    Microsoft Visual C++ 2005 Redistributable - x64 8.0.50727.4053 False
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization IT
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization EL
+    DisplayName    REG_SZ    Microsoft Visual C++ 2008 Redistributable - x64 9.0.21022.218 False
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization HU
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization SV
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization RU
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization CS
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization NO
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization JA
+    DisplayName    REG_SZ    Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization KO
+    DisplayName    REG_SZ    Microsoft Visual C++ 2008 Redistributable - x64 9.0.21022.0 False
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization JA
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization RU
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization DE
+    DisplayName    REG_SZ    Microsoft Visual C++ 2008 Redistributable - x64 9.0.30411 False
+    DisplayName    REG_SZ    ccc-utility64
+    DisplayName    REG_SZ    Microsoft Security Client
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization HU
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization EL
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization KO
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization NO
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization PL
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization NO
+    DisplayName    REG_SZ    Python 3.12.1 Test Suite (64-bit)
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization PL
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization CHS
+    DisplayName    REG_SZ    icecap_collection_x64
+    DisplayName    REG_SZ    Microsoft Visual C++ 2022 X64 Additional Runtime - 14.42.34438
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization NL
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization FR
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization BR
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization HU
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization CHS
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization PL
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization JA
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization JA
+    DisplayName    REG_SZ    Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148.0 False
+    DisplayName    REG_SZ    Microsoft Visual C++ 2005 Redistributable - x64 8.0.57102 False
+    DisplayName    REG_SZ    AMD Settings
+    DisplayName    REG_SZ    Microsoft Visual C++ 2005 Redistributable - x64 8.0.58298 False
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization EL
+    DisplayName    REG_SZ    Epic Games Launcher Prerequisites (x64)
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization DE
+    DisplayName    REG_SZ    Catalyst Control Center Next Localization PL
+    DisplayName    REG_SZ    360 Total Security
+    DisplayName    REG_SZ    RADMIR Launcher 3.2.1
+    DisplayName    REG_SZ    Visual Studio Community 2017
+    DisplayName    REG_SZ    AIMP 3
+    DisplayName    REG_SZ    AnyDesk
+    DisplayName    REG_SZ    Bandicam MPEG-1 Decoder
+    DisplayName    REG_SZ    Microsoft Office Enterprise 2007
+    DisplayName    REG_SZ    Euro Truck Simulator 2, версия 1.4
+    DisplayName    REG_SZ    FIFA 19 v.1.0-u7
+    DisplayName    REG_SZ    Grand Theft Auto V v. 1.0.1180.1
+    DisplayName    REG_SZ    GTA: San Andreas RePack
+    DisplayName    REG_SZ    Hamachi
+    DisplayName    REG_SZ    Microsoft Edge
+    DisplayName    REG_SZ    Среда выполнения Microsoft Edge WebView2 Runtime
+    DisplayName    REG_SZ    PowerPoint Reader 2.0
+    DisplayName    REG_SZ    REPO
+    DisplayName    REG_SZ    Steam
+    DisplayName    REG_SZ    Yandex (All Users)
+    DisplayName    REG_SZ    Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148.0 False
+    DisplayName    REG_SZ    Epic Games Launcher
+    DisplayName    REG_SZ    Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
+    DisplayName    REG_SZ    Microsoft Visual C++ 2005 Redistributable - x86 8.0.58299 False
+    DisplayName    REG_SZ    vs_communitymsires
+    DisplayName    REG_SZ    Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660
+    DisplayName    REG_SZ    Catalyst Control Center - Branding
+    DisplayName    REG_SZ    vs_minshellmsi
+    DisplayName    REG_SZ    BeamNG.drive [v0.21.3.0]
+    DisplayName    REG_SZ    Microsoft Visual C++ 2010 Redistributable - x86 10.0.30319 False
+    DisplayName    REG_SZ    Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
+    DisplayName    REG_SZ    vs_tipsmsi
+    DisplayName    REG_SZ    CCC Help Danish
+    DisplayName    REG_SZ    Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148 False
+    DisplayName    REG_SZ    vs_filehandler_x86
+    DisplayName    REG_SZ    Intel(R) USB 3.0 eXtensible Host Controller Driver
+    DisplayName    REG_SZ    Java 8 Update 31
+    DisplayName    REG_SZ    Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005 False
+    DisplayName    REG_SZ    CCC Help Swedish
+    DisplayName    REG_SZ    CCC Help Turkish
+    DisplayName    REG_SZ    Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.50727
+    DisplayName    REG_SZ    Утилита настройки беспроводного соединения TP-LINK
+    DisplayName    REG_SZ    CCC Help German
+    DisplayName    REG_SZ    Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 False Eng
+    DisplayName    REG_SZ    vs_minshellinteropmsi
+    DisplayName    REG_SZ    Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729 False
+    DisplayName    REG_SZ    Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.60610 False
+    DisplayName    REG_SZ    v0.5 build 031 release 5.07.10
+    DisplayName    REG_SZ    Launcher Prerequisites (x64)
+    DisplayName    REG_SZ    Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.44.35208
+    DisplayName    REG_SZ    Python Launcher
+    DisplayName    REG_SZ    CCC Help Greek
+    DisplayName    REG_SZ    Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.21005 False
+    DisplayName    REG_SZ    vs_communitymsi
+    DisplayName    REG_SZ    Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.0 False
+    DisplayName    REG_SZ    Декларация 2020
+    DisplayName    REG_SZ    Catalyst Control Center Localization All
+    DisplayName    REG_SZ    Epic Online Services
+    DisplayName    REG_SZ    Microsoft Visual C++ 2022 X86 Additional Runtime - 14.44.35208
+    DisplayName    REG_SZ    Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4048 False
+    DisplayName    REG_SZ    CCC Help Korean
+    DisplayName    REG_SZ    Microsoft Visual C++ 2008 Redistributable - x86 9.0.30411 False
+    DisplayName    REG_SZ    icecap_collectionresourcesx64
+    DisplayName    REG_SZ    CCC Help Portuguese
+    DisplayName    REG_SZ    Download Studio
+    DisplayName    REG_SZ    Canon MF Toolbox 4.9.1.1.mf15
+    DisplayName    REG_SZ    CCC Help Japanese
+    DisplayName    REG_SZ    Microsoft Visual Studio Setup Configuration
+    DisplayName    REG_SZ    Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.51106 False
+    DisplayName    REG_SZ    CCC Help Chinese Standard
+    DisplayName    REG_SZ    Microsoft Visual C++ 2005 Redistributable - x86 8.0.61001
+    DisplayName    REG_SZ    CCC Help Italian
+    DisplayName    REG_SZ    Microsoft Visual C++ 2005 Redistributable - x86 8.0.56336 False
+    DisplayName    REG_SZ    Microsoft Visual C++ 2005 Redistributable - x86 8.0.50727.4053 False
+    DisplayName    REG_SZ    2ГИС 3.16.3.0
+    DisplayName    REG_SZ    CCC Help English
+    DisplayName    REG_SZ    Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40660
+    DisplayName    REG_SZ    CCC Help Thai
+    DisplayName    REG_SZ    CCC Help Czech
+    DisplayName    REG_SZ    Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.21005 False Eng
+    DisplayName    REG_SZ    CCC Help Spanish
+    DisplayName    REG_SZ    Microsoft Visual C++ 2005 Redistributable - x86 8.0.59193 False
+    DisplayName    REG_SZ    TP-LINK TL-WN821N(C)_TL-WN822N_TL-WN823N Драйвер
+    DisplayName    REG_SZ    Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.5570 False
+    DisplayName    REG_SZ    CCC Help Norwegian
+    DisplayName    REG_SZ    Microsoft Office Access MUI (Russian) 2007
+    DisplayName    REG_SZ    Microsoft Office 2007 Service Pack 3 (SP3)
+    DisplayName    REG_SZ    Microsoft Office Excel MUI (Russian) 2007
+    DisplayName    REG_SZ    Microsoft Office 2007 Service Pack 3 (SP3)
+    DisplayName    REG_SZ    Microsoft Office Excel 2007 Help Обновление (KB963678)
+    DisplayName    REG_SZ    Microsoft Office PowerPoint MUI (Russian) 2007
+    DisplayName    REG_SZ    Microsoft Office 2007 Service Pack 3 (SP3)
+    DisplayName    REG_SZ    Microsoft Office Powerpoint 2007 Help Обновление (KB963669)
+    DisplayName    REG_SZ    Microsoft Office Publisher MUI (Russian) 2007
+    DisplayName    REG_SZ    Microsoft Office 2007 Service Pack 3 (SP3)
+    DisplayName    REG_SZ    Microsoft Office Outlook MUI (Russian) 2007
+    DisplayName    REG_SZ    Microsoft Office 2007 Service Pack 3 (SP3)
+    DisplayName    REG_SZ    Update for Microsoft Office Outlook 2007 (KB2687404) 32-Bit Edition
+    DisplayName    REG_SZ    Microsoft Office Outlook 2007 Help Обновление (KB963677)
+    DisplayName    REG_SZ    Microsoft Office Word MUI (Russian) 2007
+    DisplayName    REG_SZ    Microsoft Office 2007 Service Pack 3 (SP3)
+    DisplayName    REG_SZ    Microsoft Office Word 2007 Help Обновление (KB963665)
+    DisplayName    REG_SZ    Microsoft Office Proof (German) 2007
+    DisplayName    REG_SZ    Microsoft Office Proofing Tools 2007 Service Pack 3 (SP3)
+    DisplayName    REG_SZ    Microsoft Office Proof (English) 2007
+    DisplayName    REG_SZ    Microsoft Office Proofing Tools 2007 Service Pack 3 (SP3)
+    DisplayName    REG_SZ    Microsoft Office Proof (Russian) 2007
+    DisplayName    REG_SZ    Microsoft Office Proofing Tools 2007 Service Pack 3 (SP3)
+    DisplayName    REG_SZ    Microsoft Office Proof (Ukrainian) 2007
+    DisplayName    REG_SZ    Microsoft Office Proofing Tools 2007 Service Pack 3 (SP3)
+    DisplayName    REG_SZ    Microsoft Office 2007 Service Pack 3 (SP3)
+    DisplayName    REG_SZ    Security Update for Microsoft Office 2007 suites (KB2825645) 32-Bit Edition 
+    DisplayName    REG_SZ    Microsoft Office 2007 Service Pack 3 (SP3)
+    DisplayName    REG_SZ    Microsoft Office Proofing (Russian) 2007
+    DisplayName    REG_SZ    Microsoft Office Enterprise 2007
+    DisplayName    REG_SZ    Update for Microsoft Office 2007 suites (KB2596787) 32-Bit Edition
+    DisplayName    REG_SZ    Security Update for Microsoft Office 2007 suites (KB2881067) 32-Bit Edition 
+    DisplayName    REG_SZ    Security Update for Microsoft Office PowerPoint 2007 (KB2596912) 32-Bit Edition
+    DisplayName    REG_SZ    Security Update for Microsoft Office OneNote 2007 (KB3191829) 32-Bit Edition 
+    DisplayName    REG_SZ    Security Update for Microsoft Office 2007 suites (KB2986253) 32-Bit Edition 
+    DisplayName    REG_SZ    Security Update for Microsoft Office InfoPath 2007 (KB3114426) 32-Bit Edition 
+    DisplayName    REG_SZ    Security Update for Microsoft Office 2007 suites (KB2596871) 32-Bit Edition
+    DisplayName    REG_SZ    Security Update for Microsoft Office 2007 suites (KB2597969) 32-Bit Edition
+    DisplayName    REG_SZ    Security Update for Microsoft Office 2007 suites (KB2880507) 32-Bit Edition 
+    DisplayName    REG_SZ    Security Update for Microsoft Office 2007 suites (KB2956110) 32-Bit Edition 
+    DisplayName    REG_SZ    Security Update for Microsoft Office 2007 suites (KB2880508) 32-Bit Edition 
+    DisplayName    REG_SZ    Security Update for Microsoft Office Outlook 2007 (KB4011110) 32-Bit Edition 
+    DisplayName    REG_SZ    Security Update for Microsoft Office 2007 suites (KB2596904) 32-Bit Edition 
+    DisplayName    REG_SZ    Security Update for Microsoft Office Word 2007 (KB4011721) 32-Bit Edition 
+    DisplayName    REG_SZ    Security Update for Microsoft Office 2007 suites (KB2850022) 32-Bit Edition 
+    DisplayName    REG_SZ    Microsoft Office 2007 Service Pack 3 (SP3)
+    DisplayName    REG_SZ    Security Update for Microsoft Office Excel 2007 (KB4011714) 32-Bit Edition 
+    DisplayName    REG_SZ    Update for Microsoft Office 2007 suites (KB2965286) 32-Bit Edition
+    DisplayName    REG_SZ    Security Update for Microsoft Office Access 2007 (KB2596614) 32-Bit Edition 
+    DisplayName    REG_SZ    Security Update for Microsoft Office Visio Viewer 2007 (KB2596915) 32-Bit Edition 
+    DisplayName    REG_SZ    Security Update for Microsoft Office 2007 suites (KB2984943) 32-Bit Edition 
+    DisplayName    REG_SZ    Security Update for Microsoft Office PowerPoint 2007 (KB3213642) 32-Bit Edition 
+    DisplayName    REG_SZ    Security Update for Microsoft Office 2007 suites (KB4011715) 32-Bit Edition 
+    DisplayName    REG_SZ    Update for Microsoft Office Outlook 2007 Junk Email Filter (KB3115461) 32-Bit Edition
+    DisplayName    REG_SZ    Security Update for Microsoft Office 2007 suites (KB3085549) 32-Bit Edition 
+    DisplayName    REG_SZ    Security Update for Microsoft Office InfoPath 2007 (KB2687440) 32-Bit Edition 
+    DisplayName    REG_SZ    Update for Microsoft Office Publisher 2007 (KB4011203) 32-Bit Edition
+    DisplayName    REG_SZ    Update for Microsoft Office 2007 suites (KB2596620) 32-Bit Edition
+    DisplayName    REG_SZ    Security Update for Microsoft Office Compatibility Pack Service Pack 3 (KB4011720) 32-Bit Edition 
+    DisplayName    REG_SZ    Security Update for Microsoft Office 2007 suites (KB2596754) 32-Bit Edition 
+    DisplayName    REG_SZ    Security Update for Microsoft Office Compatibility Pack Service Pack 3 (KB4011605) 32-Bit Edition 
+    DisplayName    REG_SZ    Security Update for Microsoft Office 2007 suites (KB2596825) 32-Bit Edition 
+    DisplayName    REG_SZ    Security Update for Microsoft Office 2007 suites (KB2825645) 32-Bit Edition 
+    DisplayName    REG_SZ    Update for 2007 Microsoft Office System (KB967642)
+    DisplayName    REG_SZ    Security Update for Microsoft Office 2007 suites (KB2596650) 32-Bit Edition 
+    DisplayName    REG_SZ    Security Update for Microsoft Office OneNote 2007 (KB3114456) 32-Bit Edition 
+    DisplayName    REG_SZ    Security Update for Microsoft Office 2007 suites (KB2596792) 32-Bit Edition
+    DisplayName    REG_SZ    Security Update for Microsoft Office 2007 suites (KB2984938) 32-Bit Edition 
+    DisplayName    REG_SZ    Update for Microsoft Office 2007 suites (KB3213649) 32-Bit Edition
+    DisplayName    REG_SZ    Update for Microsoft Office 2007 suites (KB2767916) 32-Bit Edition
+    DisplayName    REG_SZ    Security Update for Microsoft Office 2007 suites (KB3213641) 32-Bit Edition 
+    DisplayName    REG_SZ    Microsoft Office InfoPath MUI (Russian) 2007
+    DisplayName    REG_SZ    Microsoft Office 2007 Service Pack 3 (SP3)
+    DisplayName    REG_SZ    Microsoft Office Shared MUI (Russian) 2007
+    DisplayName    REG_SZ    Update for Microsoft Office 2007 suites (KB2596787) 32-Bit Edition
+    DisplayName    REG_SZ    Security Update for Microsoft Office 2007 suites (KB4011656) 32-Bit Edition 
+    DisplayName    REG_SZ    Microsoft Office 2007 Service Pack 3 (SP3)
+    DisplayName    REG_SZ    Update for Microsoft Office 2007 suites (KB3213646) 32-Bit Edition
+    DisplayName    REG_SZ    Microsoft Office OneNote MUI (Russian) 2007
+    DisplayName    REG_SZ    Microsoft Office 2007 Service Pack 3 (SP3)
+    DisplayName    REG_SZ    Microsoft Office Groove MUI (Russian) 2007
+    DisplayName    REG_SZ    Microsoft Office 2007 Service Pack 3 (SP3)
+    DisplayName    REG_SZ    Microsoft Office File Validation Add-In
+    DisplayName    REG_SZ    CCC Help Russian
+    DisplayName    REG_SZ    Microsoft PowerPoint Viewer
+    DisplayName    REG_SZ    Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17 False
+    DisplayName    REG_SZ    Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+    DisplayName    REG_SZ    Microsoft Visual C++ 2005 Redistributable - x86 8.0.51011 False
+    DisplayName    REG_SZ    Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+    DisplayName    REG_SZ    vs_filehandler_amd64
+    DisplayName    REG_SZ    CCC Help Hungarian
+    DisplayName    REG_SZ    icecap_collection_neutral
+    DisplayName    REG_SZ    vs_FileTracker_Singleton
+    DisplayName    REG_SZ    Microsoft Visual C++ 2005 Redistributable - x86 8.0.50727.42 False
+    DisplayName    REG_SZ    CCC Help French
+    DisplayName    REG_SZ    Декларация 2023
+    DisplayName    REG_SZ    CCC Help Chinese Traditional
+    DisplayName    REG_SZ    Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+    DisplayName    REG_SZ    Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.42.34438
+    DisplayName    REG_SZ    Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501
+    DisplayName    REG_SZ    Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+    DisplayName    REG_SZ    CCC Help Polish
+    DisplayName    REG_SZ    vs_devenvmsi
+    DisplayName    REG_SZ    Hamachi
+    DisplayName    REG_SZ    AMD Settings
+    DisplayName    REG_SZ    CCC Help Dutch
+    DisplayName    REG_SZ    icecap_collectionresources
+    DisplayName    REG_SZ    Radmin VPN 2.0.9
+    DisplayName    REG_SZ    Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 False Eng
+    DisplayName    REG_SZ    Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005 False Eng
+    DisplayName    REG_SZ    Печать НД с PDF417 3.4.2 (пакет)
+    DisplayName    REG_SZ    Помощник по обновлению до Windows 10
+    DisplayName    REG_SZ    Catalyst Control Center InstallProxy
+    DisplayName    REG_SZ    Microsoft Visual C++ 2005 Redistributable - x86 8.0.57103 False
+    DisplayName    REG_SZ    Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022.0 False
+    DisplayName    REG_SZ    Microsoft Visual Studio Setup WMI Provider
+    DisplayName    REG_SZ    Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40660
+    DisplayName    REG_SZ    Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022.218 False
+    DisplayName    REG_SZ    The Forest
+    DisplayName    REG_SZ    Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.60610 False
+    DisplayName    REG_SZ    Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.51106 False
+    DisplayName    REG_SZ    Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.44.35208
+    DisplayName    REG_SZ    Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+    DisplayName    REG_SZ    Microsoft Visual C++ 2010 Redistributable - x86 10.0.40219
+    DisplayName    REG_SZ    Intel(R) Processor Graphics
+    DisplayName    REG_SZ    Realtek High Definition Audio Driver
+    DisplayName    REG_SZ    Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501
+    DisplayName    REG_SZ    CCC Help Finnish
+    DisplayName    REG_SZ    vs_minshellmsires
+    DisplayName    REG_SZ    Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.50727
+    DisplayName    REG_SZ    µTorrent 3.4.5
+Отчёт сохранён 
